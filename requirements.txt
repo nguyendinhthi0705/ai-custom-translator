@@ -1,0 +1,15 @@
+transformers
+Pillow
+pypdf
+jq
+langchain
+streamlit
+boto3
+awscli
+pandas-datareader
+langchain-experimental
+bs4
+setuptools
+langchain_community
+python-dotenv
+botocore
